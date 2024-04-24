@@ -1,0 +1,1 @@
+print("[Lua] " .. my_add(3, 4))
