@@ -3,7 +3,7 @@
 
 /* TO COMPILE 
 g++ -o C++OpeningLua C++OpeningLua.cpp -llua
-./LuaOpeningC++
+./C++OpeningLua
 
 Note: Lua must be in the same directory else the path must be added in the call
 */
