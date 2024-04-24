@@ -1,3 +1,6 @@
+// Alex Badami
+// C++ Version 199711
+
 /* TO COMPILE 
 g++ -o LuaOpeningC++ LuaOpeningC++.cpp -llua
 ./LuaOpeningC++
