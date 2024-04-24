@@ -1,3 +1,5 @@
+-- Alex Badami
+-- Using Lua 5.4
 -- Simple Calculator Class
 SimpleCalculator = {}
 
